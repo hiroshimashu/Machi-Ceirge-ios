@@ -1,0 +1,6 @@
+framework module Pods_Machi_Ceirge_iosUITests {
+  umbrella header "Pods-Machi-Ceirge-iosUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
