@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5CB7817D220DBAAF00711F56 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5CB7817C220DBAAF00711F56 /* GoogleService-Info.plist */; };
 		5CFE5FC6220C48C5004A435D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CFE5FC5220C48C5004A435D /* AppDelegate.swift */; };
 		5CFE5FC8220C48C5004A435D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CFE5FC7220C48C5004A435D /* ViewController.swift */; };
 		5CFE5FCB220C48C5004A435D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5CFE5FC9220C48C5004A435D /* Main.storyboard */; };
@@ -14,6 +15,7 @@
 		5CFE5FD0220C48C7004A435D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5CFE5FCE220C48C7004A435D /* LaunchScreen.storyboard */; };
 		5CFE5FDB220C48C7004A435D /* Machi_Ceirge_iosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CFE5FDA220C48C7004A435D /* Machi_Ceirge_iosTests.swift */; };
 		5CFE5FE6220C48C7004A435D /* Machi_Ceirge_iosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CFE5FE5220C48C7004A435D /* Machi_Ceirge_iosUITests.swift */; };
+		5CFE5FF4220C5FFC004A435D /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5CFE5FF3220C5FFC004A435D /* Default-568h@2x.png */; };
 		6A2CDFDE3BDEF524D223A321 /* Pods_Machi_Ceirge_iosUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A942FFE8D13700C1377386C6 /* Pods_Machi_Ceirge_iosUITests.framework */; };
 		9237C9D0D0703D19359CE852 /* Pods_Machi_Ceirge_iosTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19C123B376E2E55EACE616BE /* Pods_Machi_Ceirge_iosTests.framework */; };
 		9938ECCF628574941CD99902 /* Pods_Machi_Ceirge_ios.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED6467A3C1AE9896758CF0D2 /* Pods_Machi_Ceirge_ios.framework */; };
@@ -40,6 +42,7 @@
 		14A07300582FCFF6C605140F /* Pods-Machi-Ceirge-iosTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Machi-Ceirge-iosTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Machi-Ceirge-iosTests/Pods-Machi-Ceirge-iosTests.debug.xcconfig"; sourceTree = "<group>"; };
 		19C123B376E2E55EACE616BE /* Pods_Machi_Ceirge_iosTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Machi_Ceirge_iosTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AA5E8CD25A8C30270FF6078 /* Pods-Machi-Ceirge-iosUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Machi-Ceirge-iosUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Machi-Ceirge-iosUITests/Pods-Machi-Ceirge-iosUITests.release.xcconfig"; sourceTree = "<group>"; };
+		5CB7817C220DBAAF00711F56 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		5CFE5FC2220C48C5004A435D /* Machi-Ceirge-ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Machi-Ceirge-ios.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CFE5FC5220C48C5004A435D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5CFE5FC7220C48C5004A435D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -53,6 +56,7 @@
 		5CFE5FE1220C48C7004A435D /* Machi-Ceirge-iosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Machi-Ceirge-iosUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CFE5FE5220C48C7004A435D /* Machi_Ceirge_iosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Machi_Ceirge_iosUITests.swift; sourceTree = "<group>"; };
 		5CFE5FE7220C48C7004A435D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5CFE5FF3220C5FFC004A435D /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		5ED7A3020C25A87B2F486383 /* Pods-Machi-Ceirge-ios.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Machi-Ceirge-ios.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Machi-Ceirge-ios/Pods-Machi-Ceirge-ios.debug.xcconfig"; sourceTree = "<group>"; };
 		9D561D5BC89B34CCF8731CC9 /* Pods-Machi-Ceirge-ios.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Machi-Ceirge-ios.release.xcconfig"; path = "Pods/Target Support Files/Pods-Machi-Ceirge-ios/Pods-Machi-Ceirge-ios.release.xcconfig"; sourceTree = "<group>"; };
 		A942FFE8D13700C1377386C6 /* Pods_Machi_Ceirge_iosUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Machi_Ceirge_iosUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -115,6 +119,7 @@
 		5CFE5FB9220C48C5004A435D = {
 			isa = PBXGroup;
 			children = (
+				5CFE5FF3220C5FFC004A435D /* Default-568h@2x.png */,
 				5CFE5FC4220C48C5004A435D /* Machi-Ceirge-ios */,
 				5CFE5FD9220C48C7004A435D /* Machi-Ceirge-iosTests */,
 				5CFE5FE4220C48C7004A435D /* Machi-Ceirge-iosUITests */,
@@ -143,6 +148,7 @@
 				5CFE5FCC220C48C7004A435D /* Assets.xcassets */,
 				5CFE5FCE220C48C7004A435D /* LaunchScreen.storyboard */,
 				5CFE5FD1220C48C7004A435D /* Info.plist */,
+				5CB7817C220DBAAF00711F56 /* GoogleService-Info.plist */,
 			);
 			path = "Machi-Ceirge-ios";
 			sourceTree = "<group>";
@@ -176,7 +182,7 @@
 				5CFE5FBE220C48C5004A435D /* Sources */,
 				5CFE5FBF220C48C5004A435D /* Frameworks */,
 				5CFE5FC0220C48C5004A435D /* Resources */,
-				E431C59848627D2577246596 /* [CP] Embed Pods Frameworks */,
+				B8DDC07AF935E1B4463BFB95 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -274,6 +280,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				5CFE5FD0220C48C7004A435D /* LaunchScreen.storyboard in Resources */,
+				5CFE5FF4220C5FFC004A435D /* Default-568h@2x.png in Resources */,
+				5CB7817D220DBAAF00711F56 /* GoogleService-Info.plist in Resources */,
 				5CFE5FCD220C48C7004A435D /* Assets.xcassets in Resources */,
 				5CFE5FCB220C48C5004A435D /* Main.storyboard in Resources */,
 			);
@@ -296,6 +304,38 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		B8DDC07AF935E1B4463BFB95 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Machi-Ceirge-ios/Pods-Machi-Ceirge-ios-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Bolts/Bolts.framework",
+				"${BUILT_PRODUCTS_DIR}/FBSDKCoreKit/FBSDKCoreKit.framework",
+				"${BUILT_PRODUCTS_DIR}/FBSDKLoginKit/FBSDKLoginKit.framework",
+				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
+				"${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Bolts.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKCoreKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKLoginKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleUtilities.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Machi-Ceirge-ios/Pods-Machi-Ceirge-ios-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		BB9653A69385B220D6D9BB19 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -338,38 +378,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		E431C59848627D2577246596 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-Machi-Ceirge-ios/Pods-Machi-Ceirge-ios-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/Bolts/Bolts.framework",
-				"${BUILT_PRODUCTS_DIR}/FBSDKCoreKit/FBSDKCoreKit.framework",
-				"${BUILT_PRODUCTS_DIR}/FBSDKLoginKit/FBSDKLoginKit.framework",
-				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
-				"${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework",
-				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Bolts.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKCoreKit.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKLoginKit.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleUtilities.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Machi-Ceirge-ios/Pods-Machi-Ceirge-ios-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		EC15A702D30026C29D919720 /* [CP] Check Pods Manifest.lock */ = {
