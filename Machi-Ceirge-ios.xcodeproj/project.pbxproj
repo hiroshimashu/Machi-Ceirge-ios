@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5C4B81282216FAE600564071 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C4B81272216FAE600564071 /* WelcomeViewController.swift */; };
 		5CB7817D220DBAAF00711F56 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5CB7817C220DBAAF00711F56 /* GoogleService-Info.plist */; };
 		5CFE5FC6220C48C5004A435D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CFE5FC5220C48C5004A435D /* AppDelegate.swift */; };
 		5CFE5FC8220C48C5004A435D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CFE5FC7220C48C5004A435D /* ViewController.swift */; };
@@ -42,6 +43,7 @@
 		14A07300582FCFF6C605140F /* Pods-Machi-Ceirge-iosTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Machi-Ceirge-iosTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Machi-Ceirge-iosTests/Pods-Machi-Ceirge-iosTests.debug.xcconfig"; sourceTree = "<group>"; };
 		19C123B376E2E55EACE616BE /* Pods_Machi_Ceirge_iosTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Machi_Ceirge_iosTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AA5E8CD25A8C30270FF6078 /* Pods-Machi-Ceirge-iosUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Machi-Ceirge-iosUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Machi-Ceirge-iosUITests/Pods-Machi-Ceirge-iosUITests.release.xcconfig"; sourceTree = "<group>"; };
+		5C4B81272216FAE600564071 /* WelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
 		5CB7817C220DBAAF00711F56 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		5CFE5FC2220C48C5004A435D /* Machi-Ceirge-ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Machi-Ceirge-ios.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CFE5FC5220C48C5004A435D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -143,6 +145,7 @@
 			isa = PBXGroup;
 			children = (
 				5CFE5FC5220C48C5004A435D /* AppDelegate.swift */,
+				5C4B81272216FAE600564071 /* WelcomeViewController.swift */,
 				5CFE5FC7220C48C5004A435D /* ViewController.swift */,
 				5CFE5FC9220C48C5004A435D /* Main.storyboard */,
 				5CFE5FCC220C48C7004A435D /* Assets.xcassets */,
@@ -411,6 +414,7 @@
 			files = (
 				5CFE5FC8220C48C5004A435D /* ViewController.swift in Sources */,
 				5CFE5FC6220C48C5004A435D /* AppDelegate.swift in Sources */,
+				5C4B81282216FAE600564071 /* WelcomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

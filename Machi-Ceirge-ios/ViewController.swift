@@ -27,7 +27,7 @@ class ViewController: UIViewController,FBSDKLoginButtonDelegate {
                     // ...
                     return
                 }
-                // ログイン時の処理
+                self.performSegue(withIdentifier: "WelcomeViewController", sender: nil)
             }
             return
         }
@@ -51,6 +51,7 @@ class ViewController: UIViewController,FBSDKLoginButtonDelegate {
             return
         }
         // ログイン時の処理
+        self.performSegue(withIdentifier: "WelcomeViewController", sender: nil)
     }
     
     @IBAction func logoutButton(_ sender: Any) {
